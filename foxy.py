@@ -1,7 +1,7 @@
 import socket
 import time
 print("Script by Alienum, vm by Foxlox")
-with open('/home/alienum/Desktop/callme/10mp') as file:
+with open('10-million-password-list-top-1000000.txt') as file:
  for password in file:
 
     username = b"admin"
